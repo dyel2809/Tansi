@@ -1,2 +1,2 @@
 # Tansi
-Test
+/bin/bash -c "$(curl -fsSL https://depin.tashi.network/install.sh)" -
